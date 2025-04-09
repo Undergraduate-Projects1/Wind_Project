@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/31879954-e4a5-4258-9cb2-62805adcc764)# Wind_Project
+# Wind_Project
 Deep Learning-based Evaluation System for Safe Driving of Vehicles on Bridges under Crosswind Effects
 
 ## 摘要
